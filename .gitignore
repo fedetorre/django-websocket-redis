@@ -1,3 +1,9 @@
+/.idea/
+/build
+/docs/_build
+/dist
+/htmlcov
+/node_modules/
 *.pyc
 *.egg-info
 *.coverage
@@ -5,8 +11,3 @@ sqlite.db
 db.sqlite3
 *~
 .tmp*
-build
-docs/_build
-dist
-htmlcov
-/node_modules/

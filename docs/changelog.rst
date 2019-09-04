@@ -4,6 +4,10 @@
 Release History
 ===============
 
+0.5.2.1
+-------
+* Support for Django-2.
+
 0.5.2
 -----
 * Fix issue #206: Safari websocket problem on runserver.
