@@ -1,2 +1,3 @@
 # -*- coding: utf-8 -*-
-__version__ = '0.6.0'
+name = 'django-websocket-redis-plus'
+__version__ = '0.6.0.1'

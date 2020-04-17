@@ -4,6 +4,10 @@
 Release History
 ===============
 
+0.6.0.1
+-------
+* Support for Django 2.2.
+
 0.6.0
 -----
 * Add support for Django 2.0, 2.1.
